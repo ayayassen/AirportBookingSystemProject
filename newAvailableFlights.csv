@@ -1,0 +1,4 @@
+FlightNumber,DepartureCountry,DestinationCountry,DepartureDate,DepartureAirport,ArrivalAirport,economy,business,firstClass
+27,AB,BC,2024-01-11,A,B,100.0,220.0,320.0
+28.0,,BC,2023-01-11,A,B,C,-220.0,320
+29,AB,BC,2223-01-11,A,B,100.0,220.5,320.0
